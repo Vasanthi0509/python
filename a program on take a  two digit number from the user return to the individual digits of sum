@@ -1,0 +1,4 @@
+str=input("Enter a  two digit number: ")
+first_digit=str[0]
+second_digit=str[1]
+print(int(first_digit)+int(second_digit))
