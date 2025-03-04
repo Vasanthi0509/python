@@ -1,0 +1,7 @@
+str=input("Enter a input:")
+for i in str:
+    if i.isalpha():
+        letter=i
+    else:
+        special=i
+        print(i)
